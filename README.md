@@ -1,6 +1,6 @@
 # demo
 ML架构
---normal/      
+--normal/
 ----data/：数据
 ----checkpoints/：保存训练好的模型
 ----logs/：日志
